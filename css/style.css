@@ -89,7 +89,7 @@ HEADER
 ************************************
 ***********************************/
 .header{
-    background: url('../img/bg-banner02.jpg') no-repeat fixed;
+    background: url('../img/BckGrnd.jpg') no-repeat fixed;
     background-size: cover;
     min-height: 650px;
     position: relative;
@@ -210,9 +210,10 @@ h2.bnr-sub-title
 }
 .btn-more, .btn-more:focus
 {
-    margin-left: 15px;
-    border: 1px solid #be9e21;
-    color: #be9e21;
+    background: #e4cb67;
+	margin-left: 15px;
+    border: 1px solid #e4cb67;
+    color: #41360b;
 }
 
 .btn-more:hover {
